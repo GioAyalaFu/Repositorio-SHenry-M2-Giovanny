@@ -1,2 +1,2 @@
-# Repositorio-SHenry-M2-Giovanny
-Este es el primer repositorio de ejemplo para el ejercicio del modulo 2
+Este es un primer ejemplo de como crear un repositorio desde github
+y clonarlo en mi escritorio 
